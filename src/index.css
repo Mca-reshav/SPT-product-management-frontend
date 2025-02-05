@@ -1,0 +1,21 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  
+}
+
+/*
+blue: #454ad2;
+yellow: #e0fc27
+*/
+
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+h3, h5, td, th, p, button, input[type='text'] {
+  font-family: 'Rubik', sans-serif !important;
+}
