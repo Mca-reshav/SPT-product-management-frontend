@@ -149,22 +149,6 @@ The frontend interacts with the following backend APIs:
 
 ---
 
-## Screenshots
-
-### Login Page
-![Login Page](./screenshots/login-page.png)
-
-### Product List
-![Product List](./screenshots/product-list.png)
-
----
-
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Please ensure that your code is well-documented and thoroughly tested.
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
